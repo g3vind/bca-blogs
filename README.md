@@ -12,6 +12,7 @@ You can access the live demo of the BCA Blogs website [here](https://bca-blogs.n
 - View and read blogs from other authors.
 - User-friendly and responsive design.
 - Shimmer UI for smooth loading experience.
+- Error Page if unknown url is encountred
 - Easily navigate through the blog pages using React Router DOM.
 - Data managed through a JSON Server backend.
 
