@@ -4,7 +4,7 @@ BCA Blogs is a simple blogging website built using React and React Router DOM. I
 
 ## Live Demo
 
-You can access the live demo of the BCA Blogs website [here](https://bca-blogs.netlify.app/).
+[Live Link](https://bca-blogs.netlify.app/).
 
 ![Project 2](https://github.com/g3vind/bca-blogs/assets/70854788/04710c48-144b-4c5d-99c3-d8ab6526667a)
 
