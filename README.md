@@ -35,7 +35,7 @@ To run this project locally, follow these steps:
 1. Clone the repository to your local machine.
 
 ```
-git clone https://github.com/your-username/bca-blogs.git
+git clone https://github.com/g3vind/bca-blogs.git
 ```
 
 2. Navigate to the project directory.
@@ -68,11 +68,7 @@ This will start the project on your local machine, and you can access it in your
 
 The BCA Blogs project has been deployed on Netlify. You can access the live website [here](https://bca-blogs.netlify.app/).
 
-## Contributing
 
-Contributions to this project are welcome. You can submit bug reports, feature requests, or even create pull requests to contribute improvements. Please make sure to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
-
-## License
 
 This project is open-source and available under the [MIT License](LICENSE.md).
 
