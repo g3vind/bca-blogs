@@ -68,10 +68,4 @@ This will start the project on your local machine, and you can access it in your
 
 The BCA Blogs project has been deployed on Netlify. You can access the live website [here](https://bca-blogs.netlify.app/).
 
-
-
-This project is open-source and available under the [MIT License](LICENSE.md).
-
----
-
 Happy blogging with BCA Blogs! If you have any questions or feedback, feel free to reach out.
